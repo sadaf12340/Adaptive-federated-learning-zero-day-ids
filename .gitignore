@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+adaptive_ids.db
+node_modules/
+dist/
+frontend/dist/
+model_artifacts/
+.env.*
+!.env.example
+*.tsbuildinfo
